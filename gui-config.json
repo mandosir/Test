@@ -1,0 +1,32 @@
+{
+"configs" : [
+  {
+"server" : "",
+"server_port" : 8388,
+"password" : "",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "hk-207.hxg.cc",
+"server_port" : 21801,
+"password" : "C6q1z5aPg3",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "hk-252.hxg.cc",
+"server_port" : 21801,
+"password" : "C6q1z5aPg3",
+"method" : "rc4-md5",
+"remarks" : ""}
+
+],
+"index" : 1,
+"global" : false,
+"enabled" : true,
+"shareOverLan" : false,
+"isDefault" : false,
+"localPort" : 1080,
+"pacUrl" : null,
+"useOnlinePac" : false}
